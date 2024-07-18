@@ -11,7 +11,7 @@
 <br>
 
 ## Descripción
-TicTacToe es un tres en raya para os jugadores creado en Android Compose y Firebase.
+TicTacToe es un tres en raya para dos jugadores creado en Android Compose y Firebase.
 
 
 ### Características
