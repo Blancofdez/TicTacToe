@@ -76,6 +76,3 @@ TicTacToe es un tres en raya para dos jugadores creado en Android Compose y Fire
 
 <br>
 <br>
-
-## Instalación
-Para instalar el proyecto, sigue estos pasos:
