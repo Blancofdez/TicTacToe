@@ -65,7 +65,7 @@ TicTacToe es un tres en raya para dos jugadores creado en Android Compose y Fire
 <br>
 <br>
 
-- **Pantalla fin**: Cuando un jugador gane, nos mostrara la pantalla de fin, indicando el ganador, y pudiendo comenzar de nuevo.
+- **Pantalla fin**: Cuando un jugador gane, nos mostrará la pantalla de fin, indicando el ganador, pudiendo comenzar de nuevo.
 
 <br>
 <br>
