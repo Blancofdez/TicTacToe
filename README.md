@@ -1,6 +1,6 @@
 # TicTacToe / Android Compose
 
-![Imagen del Proyecto](https://drive.google.com/uc?export=view&id=1Y5rD8M8868yKo3oWO2elkPB57nyh-8v0)
+![Imagen del Proyecto](./img/pantalla-inicio-tictactoe.jpg)
 
 ## Descripción
 TicTacToe es un tres en raya para os jugadores creado en Android Compose y Firebase.
